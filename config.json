@@ -1,4 +1,5 @@
 {
   "runOnWeb": true,
-  "autoGenerateVb": true
+  "autoGenerateVb": true,
+  "testcafe-root-test": "test.ts"
 }
